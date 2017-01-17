@@ -1,3 +1,5 @@
+Author: Philip Chauvet (Jahmani)
+
 AikiInc DbUnit Basic Data Handler Parent Project
 -----------------------------------------------------
 The parent project is wrapper project for:
